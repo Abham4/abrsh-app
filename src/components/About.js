@@ -9,7 +9,7 @@ const About = () => {
             About Me
             </h3>
             <h1 className="mainHeader">
-            God so loved the world
+            God so Loved the world 
             </h1>
             <p className="mainContent">For God so loved the world that he gave his one and only Son, that whoever believes 
             in him shall not perish but have eternal life</p>
